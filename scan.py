@@ -12,7 +12,7 @@ keys = {
     40: u'"', 41: u'`', 42: u'LSHFT', 43: u'\\', 44: u'Z', 45: u'X', 46: u'C', 47: u'V', 48: u'B', 49: u'N',
     50: u'M', 51: u',', 52: u'.', 53: u'/', 54: u'RSHFT', 56: u'LALT', 100: u'RALT'
 }
-barCodeDeviceString = "SuperLead 2300"
+barCodeDeviceString = "Linux 3.4.39 with sunxi_usb_udc HID Gadget"
 
 print("This is names of connected input devices - plz select your scanner name and fill to variable 'barCodeDeviceString', now you selected '"+barCodeDeviceString+"'")
 
