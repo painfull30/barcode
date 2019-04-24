@@ -7,3 +7,4 @@ apt install python3-pip
 pip3 install setuptools
 pip3 install evdev
 python3 scan.py
+ 
